@@ -1,0 +1,6 @@
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\bin\Debug\Thread_Philosophers.exe.config
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\bin\Debug\Thread_Philosophers.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\bin\Debug\Thread_Philosophers.pdb
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\obj\Debug\Thread_Philosophers.csprojResolveAssemblyReference.cache
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\obj\Debug\Thread_Philosophers.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\Thread_Philosophers\obj\Debug\Thread_Philosophers.pdb

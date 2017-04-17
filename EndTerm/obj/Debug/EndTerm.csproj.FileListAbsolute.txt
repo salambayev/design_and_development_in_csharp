@@ -1,0 +1,10 @@
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\bin\Debug\EndTerm.exe.config
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\bin\Debug\EndTerm.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\bin\Debug\EndTerm.pdb
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.csprojResolveAssemblyReference.cache
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.Form1.resources
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.Properties.Resources.resources
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.csproj.GenerateResource.Cache
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.pdb
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\EndTerm\obj\Debug\EndTerm.Shape.resources

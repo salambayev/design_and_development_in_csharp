@@ -1,0 +1,10 @@
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\bin\Debug\TaskTimer.exe.config
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\bin\Debug\TaskTimer.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\bin\Debug\TaskTimer.pdb
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.csprojResolveAssemblyReference.cache
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.Form1.resources
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.Properties.Resources.resources
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.TaskTimer.resources
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.csproj.GenerateResource.Cache
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.exe
+C:\Users\Sattar\Downloads\CSharp\Design_and_Development_in_Csharp\TaskTimer\obj\Debug\TaskTimer.pdb
